@@ -14,7 +14,8 @@
 				"dbaeumer.vscode-eslint",
 				"oven.bun-vscode",
 				"mikestead.dotenv",
-				"rangav.vscode-thunder-client"
+				"rangav.vscode-thunder-client",
+				"svelte.svelte-vscode"
 			]
 		}
 	}
